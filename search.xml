@@ -2,12 +2,12 @@
 <search>
   <entry>
     <title>6.手写MyBatis</title>
-    <url>/2020/06/25/6.%E6%89%8B%E5%86%99MyBatis/</url>
+    <url>/gxblog/2020/06/25/6.%E6%89%8B%E5%86%99MyBatis/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>MyBatis应用分析与最佳实践</title>
-    <url>/2020/04/28/1.MyBatis%E5%BA%94%E7%94%A8%E5%88%86%E6%9E%90%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/</url>
+    <url>/gxblog/2020/04/28/1.MyBatis%E5%BA%94%E7%94%A8%E5%88%86%E6%9E%90%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>MyBatis</category>
@@ -19,7 +19,7 @@
   </entry>
   <entry>
     <title>消息队列之RabbitMQ</title>
-    <url>/2020/04/26/day05%20%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6RabbitMQ(2%E6%97%B652%E5%88%86)/</url>
+    <url>/gxblog/2020/04/26/day05%20%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6RabbitMQ(2%E6%97%B652%E5%88%86)/</url>
     <content><![CDATA[<h1 id="day05-消息中间件RabbitMQ-2时52分"><a href="#day05-消息中间件RabbitMQ-2时52分" class="headerlink" title="day05 消息中间件RabbitMQ (2时52分)"></a>day05 消息中间件RabbitMQ (2时52分)</h1><h2 id="1-页面发布-需求分析-11分28秒"><a href="#1-页面发布-需求分析-11分28秒" class="headerlink" title="1.页面发布-需求分析 (11分28秒)"></a>1.页面发布-需求分析 (11分28秒)</h2><p><a href="https://i.loli.net/2020/05/08/n57CcxgQNul6Per.jpg" target="_blank" rel="noopener">https://i.loli.net/2020/05/08/n57CcxgQNul6Per.jpg</a></p>
 <p><img src="assets/1542500496415.png" alt="1542500496415"></p>
 <a id="more"></a>
@@ -81,7 +81,7 @@
   </entry>
   <entry>
     <title>MyBatis体系结构与工作原理</title>
-    <url>/2020/06/25/2.MyBatis%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E4%B8%8E%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86/</url>
+    <url>/gxblog/2020/06/25/2.MyBatis%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E4%B8%8E%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86/</url>
     <content><![CDATA[<h1 id="1、掌握MyBatis的主要工作流程"><a href="#1、掌握MyBatis的主要工作流程" class="headerlink" title="1、掌握MyBatis的主要工作流程"></a>1、掌握MyBatis的主要工作流程</h1><h3 id="1、解析配置文件"><a href="#1、解析配置文件" class="headerlink" title="1、解析配置文件"></a>1、解析配置文件</h3><p>首先在MyBatis 启动的时候我们要去解析配置文件， 包括全局配置文件和映射器配置文件，这里面包含了我们怎么控制MyBatis 的行为，和我们要对数据库下达的指令，也就是我们的SQL 信息。我们会把它们解析成一个Configuration 对象。</p>
 <h3 id="2、创建工厂类"><a href="#2、创建工厂类" class="headerlink" title="2、创建工厂类"></a>2、创建工厂类</h3><a id="more"></a>
 
@@ -294,7 +294,7 @@
   </entry>
   <entry>
     <title>MyBatis插件原理</title>
-    <url>/2020/06/25/4.MyBatis%E6%8F%92%E4%BB%B6%E5%8E%9F%E7%90%86/</url>
+    <url>/gxblog/2020/06/25/4.MyBatis%E6%8F%92%E4%BB%B6%E5%8E%9F%E7%90%86/</url>
     <content><![CDATA[<h1 id="MyBatis插件原理"><a href="#MyBatis插件原理" class="headerlink" title="MyBatis插件原理"></a>MyBatis插件原理</h1><h3 id="MyBatis插件原理与自定义插件"><a href="#MyBatis插件原理与自定义插件" class="headerlink" title="MyBatis插件原理与自定义插件"></a>MyBatis插件原理与自定义插件</h3><h5 id="1-插件的使用"><a href="#1-插件的使用" class="headerlink" title="1.插件的使用"></a>1.插件的使用</h5><p>运行自定义的插件，需要3步，我们以PageHelper为例：</p>
 <p>插件编写,编写拦截器类，需要做的有三点</p>
 <p>①.实现Interceptor接口</p>
@@ -429,7 +429,7 @@
   </entry>
   <entry>
     <title>MyBatis与Spring整合</title>
-    <url>/2020/06/25/5.MyBatis%E4%B8%8ESpring%E9%9B%86%E6%88%90/</url>
+    <url>/gxblog/2020/06/25/5.MyBatis%E4%B8%8ESpring%E9%9B%86%E6%88%90/</url>
     <content><![CDATA[<h1 id="MyBatis与Spring整合"><a href="#MyBatis与Spring整合" class="headerlink" title="MyBatis与Spring整合"></a>MyBatis与Spring整合</h1><p>官网：</p>
 <p><a href="http://www.mybatis.org/spring/zh/index.html" target="_blank" rel="noopener">http://www.mybatis.org/spring/zh/index.html</a> </p>
 <p><a href="https://github.com/mybatis/spring" target="_blank" rel="noopener">https://github.com/mybatis/spring</a> </p>
@@ -696,7 +696,7 @@
   </entry>
   <entry>
     <title>MyBatis源码解读以及设计思想</title>
-    <url>/2020/06/25/3.MyBatis%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/</url>
+    <url>/gxblog/2020/06/25/3.MyBatis%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/</url>
     <content><![CDATA[<h1 id="1、通过阅读MyBatis源码掌握MyBatis底层工作原理与设计思想"><a href="#1、通过阅读MyBatis源码掌握MyBatis底层工作原理与设计思想" class="headerlink" title="1、通过阅读MyBatis源码掌握MyBatis底层工作原理与设计思想"></a>1、通过阅读MyBatis源码掌握MyBatis底层工作原理与设计思想</h1><p>我们分成五步来分析。</p>
 <p>第一步， 我们创建一个工厂类， 配置文件的解析就是在这一步完成的， 包括mybatis-config.xml 和 Mapper 映射器文件。</p>
 <p>这一步我们关心的内容：解析的时候做了什么， 产生了什么对象， 解析的结果存放到了哪里。 解析的结果决定着我们后面有什么对象可以使用， 和到哪里去取。</p>
@@ -1152,7 +1152,7 @@
   </entry>
   <entry>
     <title>多线程</title>
-    <url>/2020/04/28/synchronized-4%E6%9C%885%E6%97%A5/</url>
+    <url>/gxblog/2020/04/28/synchronized-4%E6%9C%885%E6%97%A5/</url>
     <content><![CDATA[<h1 id="用户态与内核态"><a href="#用户态与内核态" class="headerlink" title="用户态与内核态"></a>用户态与内核态</h1><p>JDK早期，synchronized 叫做重量级锁， 因为申请锁资源必须通过kernel, 系统调用</p>
 <p>重量级锁就是从用户态到内核态之间的一个调用</p>
 <p>用户态:不需要惊动操作系统老大  </p>
